@@ -4,7 +4,7 @@ basic ES6 javascript
 
 ## Jason Liang
 
-** Computational Science Sophomore in Minerva **
+**Computational Science Sophomore in Minerva**
 
 ### List of Food I Love to eat:
 
@@ -14,4 +14,5 @@ basic ES6 javascript
 - [Lamb Chop](https://en.wikipedia.org/wiki/Meat_chop)
 - [Teppanyaki](https://en.wikipedia.org/wiki/Teppanyaki)
 
-* Courtesy of Wikipedia \*
+![Soba Master](http://fubukiniseko.com/wp-content/uploads/2016/03/20160115_204238.jpg)
+_Courtesy of [Wikipedia](https://en.wikipedia.org) and [Fubuki Niseko](http://fubukiniseko.com/tag/tatsuru-rai/)_
